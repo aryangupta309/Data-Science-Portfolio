@@ -11,3 +11,5 @@ Repository containing portfolio of data science projects completed by me for aca
   - [Credit Card Case Study](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/4.%20Pandas%20Case%20Study%202%20-%20Credit%20Card%20Case%20Study) : EDA on Credit Card Datasets.
   - [Insurance Claims Case Study](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/5.%20Pandas%20Case%20Study%203%20-%20Insurance%20Claims%20Case%20Study) : EDA on Insurance Claims Case Study.
 > Tools : Numpy, Pandas, Matplotlib, Seaborn, Scipy
+- Regression Problems:
+  - [Interest Rate Prediction](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Interest%20Rate%20Prediction) : Linear Regression model for predicting Interest Rate.
