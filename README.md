@@ -10,6 +10,8 @@ Repository containing portfolio of data science projects completed by me for aca
 - Regression Problems:
   - [Predicting Credit Card Spend](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/1.%20Predicting%20Credit%20Card%20Spend%20%26%20Identifying%20Key%20Drivers) : One of the global banks would like to understand what factors driving credit card spend are. The bank want use these insights to calculate credit limit. In order to solve the problem, the bank conducted survey of 5000 customers and collected data. The objective of to understand what's driving the total spend (Primary Card + Secondary card). Given the factors, predict credit limit for the new applicants.
   - [Interest Rate Prediction](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Interest%20Rate%20Prediction) : Linear Regression model for predicting Interest Rate.
+- Classification Problems:
+  - [Network Intrusion Detection System](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/3.%20Network%20Intrusion%20Detection%20System) : Multinomial Classification Problem for Network Intrusion Detection System.
 - SQL:
   - [SQL Understanding](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Sql) : Structured Query Language queries to retrieve and update data.
 - Tableau:
