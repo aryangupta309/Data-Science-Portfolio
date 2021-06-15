@@ -12,6 +12,8 @@ Repository containing portfolio of data science projects completed by me for aca
   - [Interest Rate Prediction](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Interest%20Rate%20Prediction) : Linear Regression model for predicting Interest Rate.
 - Classification Problems:
   - [Network Intrusion Detection System](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/3.%20Network%20Intrusion%20Detection%20System) : Multinomial Classification Problem for Network Intrusion Detection System.
+- Segmentation Problems:
+  - [Segmentation of Credit Card Customer](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/4.%20Segmentation%20of%20Credit%20Card%20Customers) : Segmentation of Credit Card Customers and deriving marketing Strategy for better operations and customer experience.
 - SQL:
   - [SQL Understanding](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Sql) : Structured Query Language queries to retrieve and update data.
 - Tableau:
