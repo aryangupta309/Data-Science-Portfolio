@@ -14,7 +14,7 @@ Repository containing portfolio of data science projects completed by me for aca
 - Classification Problems:
   - [Network Intrusion Detection System](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Network%20Intrusion%20Detection%20System) : Multinomial Classification Problem for Network Intrusion Detection System.
 - Segmentation Problems:
-  - [Segmentation of Credit Card Customer](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/4.%20Segmentation%20of%20Credit%20Card%20Customers) : Segmentation of Credit Card Customers and deriving marketing Strategy for better operations and customer experience.
+  - [Segmentation of Credit Card Customer](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Segmentation%20of%20Credit%20Card%20Customers) : Segmentation of Credit Card Customers and deriving marketing Strategy for better operations and customer experience.
 - Forecasting Problems:
   - [Walmart Sales Forecasting](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Walmart%20Store%20Sales%20Forecasting) : Walmart sales forecasting for different combination of Store and their Department across the globe. Applied Machine learning as well as Time Series Analysis to compare the results and performace of the model.
 - SQL:
