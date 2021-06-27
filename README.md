@@ -8,7 +8,7 @@ Repository containing portfolio of data science projects completed by me for aca
   - [Insurance Claims Case Study](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/5.%20Pandas%20Case%20Study%203%20-%20Insurance%20Claims%20Case%20Study) : EDA on Insurance Claims Case Study.
 > Tools : Numpy, Pandas, Matplotlib, Seaborn, Scipy
 - Regression Problems:
-  - [Predicting Credit Card Spend](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/1.%20Predicting%20Credit%20Card%20Spend%20%26%20Identifying%20Key%20Drivers) : Predicting Credit Limit for the new customers and to understand the feature driving the credit limit.
+  - [Predicting Credit Card Spend](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Predicting%20Credit%20Card%20Spend%20%26%20Identifying%20Key%20Drivers) : Predicting Credit Limit for the new customers and to understand the feature driving the credit limit.
   - [Interest Rate Prediction](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Interest%20Rate%20Prediction) : Linear Regression model for predicting Interest Rate.
   - [Car Sales Prediction](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Car%20Sales%20Prediction) : Predicting the new car sales for given car model with defined factors.
 - Classification Problems:
