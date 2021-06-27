@@ -13,6 +13,7 @@ Repository containing portfolio of data science projects completed by me for aca
   - [Car Sales Prediction](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Car%20Sales%20Prediction) : Predicting the new car sales for given car model with defined factors.
 - Classification Problems:
   - [Network Intrusion Detection System](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Network%20Intrusion%20Detection%20System) : Multinomial Classification Problem for Network Intrusion Detection System.
+  - [Employee Attrition Prediction System](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/HR%20Analytics%20-%20Predicting%20Employee%20Attrition) : Predictive Modelling and Exploratory Analysis of Employee Attrition System.
 - Segmentation Problems:
   - [Segmentation of Credit Card Customer](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Segmentation%20of%20Credit%20Card%20Customers) : Segmentation of Credit Card Customers and deriving marketing Strategy for better operations and customer experience.
 - Forecasting Problems:
