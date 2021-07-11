@@ -19,6 +19,7 @@ Repository containing portfolio of data science projects completed by me for aca
   - [Walmart Sales Forecasting](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Walmart%20Store%20Sales%20Forecasting) : Walmart sales forecasting for different combination of Store and their Department across the globe. Applied Machine learning as well as Time Series Analysis to compare the results and performace of the model.
 - Text Mining (Natural Language Processing):
   - [Bank Review Analysis](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Bank%20Reviews-Complaints%20Analysis) : Sentiment Analysis and Topic Mining on Bank Reviews.
+  - [Job Posts Analysis](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Analyzing%20online%20Job%20Postings) : Analysing Job Posts data and applying Text Analytics on top of it.
 > Tools : Numpy, Pandas, Matplotlib, Seaborn, Scipy, Sklearn, Statsmodels
 - SQL:
   - [SQL Understanding](https://github.com/aryangupta309/Data-Science-Portfolio/tree/main/Sql) : Structured Query Language queries to retrieve and update data.
